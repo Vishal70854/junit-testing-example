@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfa4f7bf-c967-4c2b-bfec-6cade9e012a3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Apache Kafka run on windows.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/deliveryboy/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/deliveryboy/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/deliveryboy/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/deliveryboy/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/deliveryboy/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/deliveryboy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/deliveryboy/src/main/java/com/deliveryboy/DeliveryboyApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/deliveryboy/src/main/java/com/deliveryboy/config/AppConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/deliveryboy/src/main/java/com/deliveryboy/config/KafkaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/deliveryboy/src/main/java/com/deliveryboy/controller/LocationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/deliveryboy/src/main/java/com/deliveryboy/service/KafkaService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/deliveryboy/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/deliveryboy/src/test/java/com/deliveryboy/DeliveryboyApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/enduser/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/enduser/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/enduser/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/enduser/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/enduser/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/enduser/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/enduser/src/main/java/com/enduser/EnduserApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/enduser/src/main/java/com/enduser/config/AppConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/enduser/src/main/java/com/enduser/config/KafkaConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/enduser/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/enduser/src/test/java/com/enduser/EnduserApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jwt_authencation/jwt_example3/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jwt_authencation/jwt_example3/src/main/java/com/jwt/example/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jwt_authencation/jwt_example3/src/main/java/com/jwt/example/config/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jwt_authencation/jwt_example3/src/main/java/com/jwt/example/config/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jwt_authencation/jwt_example3/src/main/java/com/jwt/example/controllers/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jwt_authencation/jwt_example3/src/main/java/com/jwt/example/models/JwtRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jwt_authencation/jwt_example3/src/main/java/com/jwt/example/models/JwtResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jwt_authencation/jwt_example3/src/main/java/com/jwt/example/models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jwt_authencation/jwt_example3/src/main/java/com/jwt/example/security/JWTAuthenticationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jwt_authencation/jwt_example3/src/main/java/com/jwt/example/security/JwtAuthenticationEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jwt_authencation/jwt_example3/src/main/java/com/jwt/example/security/JwtHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../jwt_authencation/jwt_example3/src/main/java/com/jwt/example/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/HotelService/src/main/java/com/lcwd/hotel/controllers/HotelController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/HotelService/src/main/java/com/lcwd/hotel/entities/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/HotelService/src/main/java/com/lcwd/hotel/exceptions/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/HotelService/src/main/java/com/lcwd/hotel/exceptions/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/HotelService/src/main/java/com/lcwd/hotel/repositories/HotelRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/HotelService/src/main/java/com/lcwd/hotel/services/HotelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/HotelService/src/main/java/com/lcwd/hotel/services/impl/HotelServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/HotelService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/RatingService/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/RatingService/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/RatingService/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/RatingService/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/RatingService/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/RatingService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/RatingService/src/main/java/com/lcwd/rating/RatingServiceApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/RatingService/src/main/java/com/lcwd/rating/controllers/RatingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/RatingService/src/main/java/com/lcwd/rating/entities/Rating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/RatingService/src/main/java/com/lcwd/rating/repositories/RatingRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/RatingService/src/main/java/com/lcwd/rating/services/RatingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/RatingService/src/main/java/com/lcwd/rating/services/impl/RatingServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/RatingService/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/RatingService/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/RatingService/src/test/java/com/lcwd/rating/RatingServiceApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/ServiceRegistry/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/ServiceRegistry/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/ServiceRegistry/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/ServiceRegistry/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/ServiceRegistry/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/ServiceRegistry/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/ServiceRegistry/src/main/java/com/lcwd/service/registry/ServiceRegistryApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/ServiceRegistry/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/ServiceRegistry/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/ServiceRegistry/src/test/java/com/lcwd/service/registry/ServiceRegistryApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/UserService/src/main/java/com/lcwd/user/service/config/MyConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/UserService/src/main/java/com/lcwd/user/service/controllers/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/UserService/src/main/java/com/lcwd/user/service/entities/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/UserService/src/main/java/com/lcwd/user/service/entities/Rating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/UserService/src/main/java/com/lcwd/user/service/entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/UserService/src/main/java/com/lcwd/user/service/exceptions/GlobalExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/UserService/src/main/java/com/lcwd/user/service/exceptions/ResourceNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/UserService/src/main/java/com/lcwd/user/service/external/services/HotelService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/UserService/src/main/java/com/lcwd/user/service/payload/ApiResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/UserService/src/main/java/com/lcwd/user/service/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/UserService/src/main/java/com/lcwd/user/service/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/UserService/src/main/java/com/lcwd/user/service/services/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/UserService/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../microservice_hotel_management_app/UserService/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Other Projects/gs-rest-service" beforeDir="false" afterPath="$PROJECT_DIR$/../../Other Projects/gs-rest-service" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/controllers/AdminController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/controllers/AdminController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/dtos/LoginRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/dtos/LoginRequestDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/dtos/RegisterComplaintDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/dtos/RegisterComplaintDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/dtos/UserRequestDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/dtos/UserRequestDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/models/BaseModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/models/BaseModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/models/Complaint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/models/Complaint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/models/ComplaintStatus.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/models/ComplaintStatus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/models/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/models/Role.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/repositories/ComplaintRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/repositories/ComplaintRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/repositories/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/repositories/RoleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/repositories/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/repositories/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/services/AdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/services/AdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tictactoe/bot_entity.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tictactoe/player_entity.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tictactoe/src/main/java/dev/vishal/tictactoe/controllers/TicTacToeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tictactoe/src/main/java/dev/vishal/tictactoe/models/Bot.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../tictactoe/src/main/java/dev/vishal/tictactoe/models/Player.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2gsM0Iv3gSDWNMEZjqne8geygl0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.AssertExampleTest.test1">
+    <configuration name="AssertExampleTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.services" />
+      <option name="MAIN_CLASS_NAME" value="org.example.services.AssertExampleTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.services" />
+      <option name="MAIN_CLASS_NAME" value="org.example.services.CalculatorServiceTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorServiceTestJunit5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.services" />
+      <option name="MAIN_CLASS_NAME" value="org.example.services.CalculatorServiceTestJunit5" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorServiceTestJunit5.addAnyNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.services" />
+      <option name="MAIN_CLASS_NAME" value="org.example.services.CalculatorServiceTestJunit5" />
+      <option name="METHOD_NAME" value="addAnyNumbersTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorServiceTestJunit5.addTwoNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="UnitTestExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.services" />
+      <option name="MAIN_CLASS_NAME" value="org.example.services.CalculatorServiceTestJunit5" />
+      <option name="METHOD_NAME" value="addTwoNumbersTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AssertExampleTest.test1" />
+        <item itemvalue="JUnit.CalculatorServiceTestJunit5" />
+        <item itemvalue="JUnit.CalculatorServiceTestJunit5.addAnyNumbersTest" />
+        <item itemvalue="JUnit.CalculatorServiceTestJunit5.addTwoNumbersTest" />
+        <item itemvalue="JUnit.CalculatorServiceTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfa4f7bf-c967-4c2b-bfec-6cade9e012a3" name="Changes" comment="" />
+      <created>1716481608027</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716481608027</updated>
+      <workItem from="1716481609063" duration="7093000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
