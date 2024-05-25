@@ -30,11 +30,13 @@
       <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/enduser/src/main/java/com/enduser/config/KafkaConfig.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/enduser/src/main/resources/application.properties" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../Apache_Kafka/enduser/src/test/java/com/enduser/EnduserApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mockito_example/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mockito_example/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mockito_example/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mockito_example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mockito_example/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mockito_example/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../mockito_example/src/test/java/org/example/AppTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../jwt_authencation/jwt_example3/readme.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../jwt_authencation/jwt_example3/src/main/java/com/jwt/example/config/AppConfig.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../jwt_authencation/jwt_example3/src/main/java/com/jwt/example/config/AuthController.java" afterDir="false" />
@@ -108,6 +110,9 @@
       <change beforePath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/repositories/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/repositories/RoleRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/repositories/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/repositories/UserRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/services/AdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../adminservice/src/main/java/dev/vishal/adminservice/services/AdminService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../tictactoe/bot_entity.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../tictactoe/player_entity.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../tictactoe/src/main/java/dev/vishal/tictactoe/controllers/TicTacToeController.java" beforeDir="false" />
@@ -122,19 +127,27 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1-sources.jar!/junit/framework/TestCase.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$MAVEN_REPOSITORY$/org/junit/jupiter/junit-jupiter-api/5.10.2/junit-jupiter-api-5.10.2-sources.jar!/org/junit/jupiter/api/Assertions.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2gsM0Iv3gSDWNMEZjqne8geygl0" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -149,90 +162,102 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/visha/OneDrive/Desktop/java/springboot_projects/junit_testing/mockito_example",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.AssertExampleTest.test1">
-    <configuration name="AssertExampleTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UnitTestExample" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.example.business" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example.business" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ListTest.letsMockList_ByThrowingExcpetion">
+    <configuration name="ListTest.letsMockListGet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito_example" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.services.*" />
+          <option name="PATTERN" value="org.example.mockito_examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.services" />
-      <option name="MAIN_CLASS_NAME" value="org.example.services.AssertExampleTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="org.example.mockito_examples" />
+      <option name="MAIN_CLASS_NAME" value="org.example.mockito_examples.ListTest" />
+      <option name="METHOD_NAME" value="letsMockListGet" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UnitTestExample" />
+    <configuration name="ListTest.letsMockListGetWithAny" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito_example" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.services.*" />
+          <option name="PATTERN" value="org.example.mockito_examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.services" />
-      <option name="MAIN_CLASS_NAME" value="org.example.services.CalculatorServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorServiceTestJunit5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UnitTestExample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.services.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example.services" />
-      <option name="MAIN_CLASS_NAME" value="org.example.services.CalculatorServiceTestJunit5" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorServiceTestJunit5.addAnyNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UnitTestExample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.services.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="org.example.services" />
-      <option name="MAIN_CLASS_NAME" value="org.example.services.CalculatorServiceTestJunit5" />
-      <option name="METHOD_NAME" value="addAnyNumbersTest" />
+      <option name="PACKAGE_NAME" value="org.example.mockito_examples" />
+      <option name="MAIN_CLASS_NAME" value="org.example.mockito_examples.ListTest" />
+      <option name="METHOD_NAME" value="letsMockListGetWithAny" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorServiceTestJunit5.addTwoNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="UnitTestExample" />
+    <configuration name="ListTest.letsMockListSize" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito_example" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.services.*" />
+          <option name="PATTERN" value="org.example.mockito_examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="org.example.services" />
-      <option name="MAIN_CLASS_NAME" value="org.example.services.CalculatorServiceTestJunit5" />
-      <option name="METHOD_NAME" value="addTwoNumbersTest" />
+      <option name="PACKAGE_NAME" value="org.example.mockito_examples" />
+      <option name="MAIN_CLASS_NAME" value="org.example.mockito_examples.ListTest" />
+      <option name="METHOD_NAME" value="letsMockListSize" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest.letsMockListSizeWithMultipleReturnValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito_example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.mockito_examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.mockito_examples" />
+      <option name="MAIN_CLASS_NAME" value="org.example.mockito_examples.ListTest" />
+      <option name="METHOD_NAME" value="letsMockListSizeWithMultipleReturnValues" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListTest.letsMockList_ByThrowingExcpetion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mockito_example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.mockito_examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.mockito_examples" />
+      <option name="MAIN_CLASS_NAME" value="org.example.mockito_examples.ListTest" />
+      <option name="METHOD_NAME" value="letsMockList_ByThrowingExcpetion" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -240,11 +265,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AssertExampleTest.test1" />
-        <item itemvalue="JUnit.CalculatorServiceTestJunit5" />
-        <item itemvalue="JUnit.CalculatorServiceTestJunit5.addAnyNumbersTest" />
-        <item itemvalue="JUnit.CalculatorServiceTestJunit5.addTwoNumbersTest" />
-        <item itemvalue="JUnit.CalculatorServiceTest" />
+        <item itemvalue="JUnit.ListTest.letsMockList_ByThrowingExcpetion" />
+        <item itemvalue="JUnit.ListTest.letsMockListGetWithAny" />
+        <item itemvalue="JUnit.ListTest.letsMockListGet" />
+        <item itemvalue="JUnit.ListTest.letsMockListSizeWithMultipleReturnValues" />
+        <item itemvalue="JUnit.ListTest.letsMockListSize" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +281,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716481608027</updated>
-      <workItem from="1716481609063" duration="7093000" />
+      <workItem from="1716481609063" duration="7950000" />
+      <workItem from="1716613697371" duration="4970000" />
+      <workItem from="1716643375879" duration="7889000" />
     </task>
     <servers />
   </component>
